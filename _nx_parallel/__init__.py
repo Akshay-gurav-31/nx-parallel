@@ -155,3 +155,5 @@ def get_info():
             },
         },
     }
+
+from .degree import parallel_degree
